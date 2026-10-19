@@ -1,16 +1,14 @@
 <img src="assets/header.svg" alt="Arseni Atrokhov — Roblox Development / Game Systems / Research" width="100%">
 
-I turn game ideas and research findings into clear rules, playable systems and testable prototypes. My main focus is **Roblox Studio and Lua/Luau**, with experience across game research, UX, QA and AI-assisted development.
+I turn game ideas and research findings into clear rules, playable systems and testable prototypes. My main focus is **Roblox Studio and Lua/Luau**, with experience across game research, UX, testing and development.
 
 [LinkedIn](https://www.linkedin.com/in/arseni-atrokhov/) · **Gomel, Belarus** · Open to remote roles and local opportunities in Gomel
 
 ## Start here
 
-**[Deep Contract — Research to Playable Game](https://github.com/CondrusArsen/deep-contract)** connects a detailed gameplay teardown with an AI-assisted mining-management and tower-defence prototype. Review the playable game, TypeScript source, design notes, tests and preserved publication packages in one place.
+**[Deep Contract — Research to Playable Game](https://github.com/CondrusArsen/deep-contract)** connects a detailed gameplay teardown with a mining-management and tower-defence prototype. Review the playable game, TypeScript source, design notes, tests and preserved publication packages in one place.
 
-**[Play](https://deep-contract.bloomlabs.games/d/70-LM00jumoC/) · [Game & teardown downloads](https://github.com/CondrusArsen/deep-contract/releases/tag/portfolio-2026-10) · [My role and implementation](https://github.com/CondrusArsen/deep-contract#my-role)**
-
-AI tools generated substantial code; I directed implementation and iteration and reviewed the result. The repository explains that workflow and what was verified.
+**[Play](https://condrusarsen.github.io/deep-contract/) · [Game & teardown downloads](https://github.com/CondrusArsen/deep-contract/releases/tag/v1.0.0) · [My role and implementation](https://github.com/CondrusArsen/deep-contract#project-work)**
 
 ## More projects
 
@@ -32,7 +30,6 @@ These repositories document my earlier Roblox, software and design work. They in
 - **Game design and research:** core loops, rewards, onboarding, competitor analysis, mechanic breakdowns and practical proposals for developers.
 - **Testing and iteration:** reproduction steps, expected vs actual behavior, playtesting and feedback that can become a concrete fix.
 - **UX thinking:** player flows, navigation and interface feedback, supported by Figma experience.
-- **AI-assisted workflows:** Claude, Codex and Gemini for research and implementation, with explicit scope and verification.
 
 ## Background
 
