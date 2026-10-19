@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Arseni Atrokhov — Roblox Development / Game Systems / Research">
+<rect width="1280" height="360" fill="#101923"/>
+<path d="M930 0v360M1040 0v360M1150 0v360M820 0v360M0 90h1280M0 180h1280M0 270h1280" stroke="#243443" stroke-width="1"/>
+<path d="m950 82 126 72v144l-126-72zm0 0-126 72v144l126-72m-126-72 126 72 126-72" fill="none" stroke="#bdeb82" stroke-width="3"/>
+<path d="m1098 50 65 38v75l-65-38zm0 0-65 38v75l65-38m-65-37 65 37 65-37" fill="none" stroke="#78a8bb" stroke-width="2"/>
+<rect x="54" y="54" width="44" height="5" fill="#bdeb82"/>
+<text x="54" y="113" fill="#bdeb82" font-family="Arial,sans-serif" font-size="15" letter-spacing="4">GAMEPLAY / DESIGN / EVIDENCE</text>
+<text x="54" y="190" fill="#f1f4ee" font-family="Arial,sans-serif" font-size="58" font-weight="700">Arseni Atrokhov</text>
+<text x="57" y="240" fill="#bacad0" font-family="Arial,sans-serif" font-size="23">Roblox Development · Game Systems · Research</text>
+<text x="57" y="304" fill="#8197a2" font-family="Arial,sans-serif" font-size="16">Lua / Luau     ·     Prototyping     ·     Player Experience</text>
+</svg>
