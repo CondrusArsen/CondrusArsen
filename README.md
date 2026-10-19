@@ -4,16 +4,19 @@ I turn game ideas and research findings into clear rules, playable systems and t
 
 [LinkedIn](https://www.linkedin.com/in/arseni-atrokhov/) · **Gomel, Belarus** · Open to remote roles and local opportunities in Gomel
 
-## Start here
+## Projects
 
-Two recent demonstrations show how I structure a system and make its behavior reviewable. Both were built with AI assistance and include runnable checks.
+These repositories document my earlier Roblox, software and design work. They include source code, screenshots or design documents and describe their individual scope.
 
-| Project | What to look at | Run |
-|---|---|---|
-| **[Salvage Systems Lab](https://github.com/CondrusArsen/salvage-systems-lab)** | Luau state transitions, risk/extraction loop, capacity progression, authoritative prices, duplicate-command rejection | `lune run demo` / `lune run tests` |
-| **[Game Research Workbench](https://github.com/CondrusArsen/game-research-workbench)** | Source-linked claims, explicit uncertainty, reproducible QA findings, offline HTML export | `python research.py examples/salvage-study.json --output report.html` |
-
-The systems lab is a focused code sample, not a shipped game. The workbench uses a clearly labeled fictional study, not private employer data.
+| Project | What is available |
+|---|---|
+| [Arcane Orchard RPG](https://github.com/CondrusArsen/arcane-orchard-rpg) | A learning project built with a student: magic combat, NPCs, resource loops and a shop. Extracted Luau and a Studio place via Git LFS; prototype limitations apply. |
+| [Roblox Feature Pack](https://github.com/CondrusArsen/roblox-feature-pack) | An earlier test assignment: platform triggers, teleports, checkpoints, GUI events and animation. Original Studio file and gameplay GIFs. |
+| [School Journal Bot](https://github.com/CondrusArsen/school-journal-bot) | Python, aiogram and SQLite: classes, students, grade entry, template-based reports and Excel export. |
+| [Match-3 Design Case Study](https://github.com/CondrusArsen/match3-game-design-case-study) | Comparative gameplay analysis, a layered obstacle concept and a collection-event proposal. |
+| [Mobile Quiz UI](https://github.com/CondrusArsen/among-us-story-mobile-quiz-ui) | An unofficial Figma learning concept: quiz flow, lives, results and shop screens. |
+| [Number-Guessing Game UI](https://github.com/CondrusArsen/blackjack-mobile-game-ui) | A casino-themed Figma interface concept using number guessing rather than traditional Blackjack rules. |
+| [Mini Movie Journal](https://github.com/CondrusArsen/film-catalog-frontend) | A small Vanilla JavaScript learning project: search, filters, details pages and theme switching. |
 
 ## What I bring
 
@@ -33,15 +36,6 @@ Delivered **13,000+ online lessons**. Guided projects from idea to implementatio
 
 **UI/UX · Freelance and self-directed projects · 2021–Jul 2026**  
 Designed mobile and game-interface concepts, flows and prototypes in Figma.
-
-## Earlier work
-
-The repositories below document earlier learning, teaching and design work. They provide context alongside the newer focused demonstrations.
-
-- [School Journal Bot](https://github.com/CondrusArsen/school-journal-bot) — Python, aiogram and SQLite; school administration workflows.
-- [Roblox Feature Pack](https://github.com/CondrusArsen/roblox-feature-pack) — checkpoint, UI/server, saving and animation exercises from a test assignment.
-- [Match-3 Design Case Study](https://github.com/CondrusArsen/match3-game-design-case-study) — mechanics, onboarding, progression and event design.
-- [Mobile Quiz UI](https://github.com/CondrusArsen/among-us-story-mobile-quiz-ui) — Figma screen flows and player feedback states.
 
 ## In development
 
