@@ -4,7 +4,15 @@ I turn game ideas and research findings into clear rules, playable systems and t
 
 [LinkedIn](https://www.linkedin.com/in/arseni-atrokhov/) · **Gomel, Belarus** · Open to remote roles and local opportunities in Gomel
 
-## Projects
+## Start here
+
+**[Deep Contract — Research to Playable Game](https://github.com/CondrusArsen/deep-contract)** connects a detailed gameplay teardown with an AI-assisted mining-management and tower-defence prototype. Review the playable game, TypeScript source, design notes, tests and preserved publication packages in one place.
+
+**[Play](https://deep-contract.bloomlabs.games/d/70-LM00jumoC/) · [Game & teardown downloads](https://github.com/CondrusArsen/deep-contract/releases/tag/portfolio-2026-10) · [My role and implementation](https://github.com/CondrusArsen/deep-contract#my-role)**
+
+AI tools generated substantial code; I directed implementation and iteration and reviewed the result. The repository explains that workflow and what was verified.
+
+## More projects
 
 These repositories document my earlier Roblox, software and design work. They include source code, screenshots or design documents and describe their individual scope.
 
