@@ -15,7 +15,7 @@ I build playable games fast with AI, and I know what to build. Claude, Codex and
 
 ### ⭐ Featured
 
-**[AI Game Lab](https://github.com/CondrusArsen/ai-game-lab)** — seven mobile web games built from my own teardowns with AI agents, playable in the browser. **[▶ Play them all](https://condrusarsen.github.io/ai-game-lab/)**
+**[AI Game Lab](https://github.com/CondrusArsen/ai-game-lab)** — Deep Contract plus seven more mobile web games built from my own teardowns with AI agents, playable in the browser. **[▶ Play them all](https://condrusarsen.github.io/ai-game-lab/)**
 
 **[Deep Contract](https://github.com/CondrusArsen/deep-contract)** — mining management + tower defence: day/night loop, worker AI, waves and bosses, upgrade tree. TypeScript, 36 tests, full design notes. **[▶ Play](https://condrusarsen.github.io/deep-contract/)**
 
@@ -23,7 +23,7 @@ I build playable games fast with AI, and I know what to build. Claude, Codex and
 
 | Project | What it shows |
 |---|---|
-| [Arcane Orchard RPG](https://github.com/CondrusArsen/arcane-orchard-rpg) | Magic combat, NPC AI with pathfinding, economy and shop. Rojo project, server-authoritative purchases, safe DataStore saves, Selene + StyLua CI |
+| [Arcane Orchard RPG](https://github.com/CondrusArsen/arcane-orchard-rpg) | Magic combat, NPC AI with pathfinding, economy and shop. Started with a student; refactored with AI agents under my direction (Rojo, server-authoritative purchases, safe DataStore saves, CI) and playtested in Studio |
 | [Roblox Feature Pack](https://github.com/CondrusArsen/roblox-feature-pack) | Studio test assignment: triggers, teleports, per-player checkpoints, GUI + RemoteEvents, DataStore, animation |
 
 ### 📐 Game design
@@ -41,7 +41,7 @@ I build playable games fast with AI, and I know what to build. Claude, Codex and
 
 ### Experience
 
-**Bloom Labs** — Game design, research & AI prototyping · Jul–Oct 2026
+**Bloom Labs** — Game Designer & AI Prototyper (contract) · Jul–Oct 2026
 Wrote 88 of the studio's 132 game teardowns; built AI research tools; shipped 40+ AI-built browser games with a teammate; competitor and economy analysis, a core-loop redesign and release QA for a live Roblox game.
 
 **Itgenio** — Roblox & game-development instructor · 2019–2026
@@ -51,6 +51,6 @@ Wrote 88 of the studio's 132 game teardowns; built AI research tools; shipped 40
 
 ### Toolbox
 
-`Luau` `Roblox Studio` `Rojo` `TypeScript` `JavaScript` `HTML5 Canvas` `Python` `Claude Code` `Codex` `Gemini` `Figma` `Git`
+`Luau` `Roblox Studio` `JavaScript` `HTML5 Canvas` `Claude Code` `Codex` `Gemini` `Figma` `Git`
 
 **Looking for:** AI game designer / AI prototyper · Roblox developer · game designer (casual, Roblox) · HTML5 game developer — remote. **[Message me on LinkedIn](https://www.linkedin.com/in/arseni-atrokhov/)**
