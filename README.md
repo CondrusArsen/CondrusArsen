@@ -6,7 +6,7 @@ I turn a game idea into a playable, tested build quickly, and I can tell what ma
 
 **What I can do for your team**
 
-- 🎮 **Ship playable prototypes fast.** I take a concept to a browser or Roblox build your team can playtest. I've shipped 40+ AI-built web games to a live platform.
+- 🎮 **Ship playable prototypes fast.** I take a concept to a browser or Roblox build your team can playtest. I've built 100+ playable games and prototypes (HTML5 and Roblox) with AI agents.
 - 🔬 **Research games and markets.** I've analysed 600+ games (Roblox, web, indie/Steam, mobile): core loop, FTUE, economy, monetization, retention. I can tell you what to copy, what to change and why.
 - 🛠 **Build AI tools for the pipeline.** I made tools that turn gameplay videos into evidence-based teardowns at scale (a Gemini Chrome extension and Codex skills).
 - 🧱 **Roblox and Luau.** 6.5 years with Roblox Studio: systems, client/server logic, saving, NPCs, UI, and debugging other people's code.
@@ -44,7 +44,7 @@ I turn a game idea into a playable, tested build quickly, and I can tell what ma
 ### Experience
 
 **Bloom Labs** — Game Designer & AI Prototyper (contract) · Jul–Oct 2026
-Researched 600+ games and built AI tools that automate teardowns. Shipped 40+ AI-built browser games. Ran competitor and economy analysis, redesigned the core loop and did release QA for a live Roblox game.
+Researched 600+ games and built AI tools that automate teardowns. Built playable web games and prototypes with AI agents. Ran competitor and economy analysis, redesigned the core loop and did release QA for a live Roblox game.
 
 **Itgenio** — Roblox & game-development instructor · 2019–2026
 13,000+ online sessions: Roblox Studio, Lua/Luau, game systems. Daily debugging of unfamiliar code.
