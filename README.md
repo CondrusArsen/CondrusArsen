@@ -5,7 +5,7 @@
 I build playable games fast with AI, and I know what to build. Claude, Codex and Gemini are my production team: I set the design, direct the agents, review every result and own the final quality.
 
 - 🔬 **200+ game teardowns** — 88 of the 132 in my last studio's library, mostly Roblox: core loops, FTUE, economy, monetization, retention
-- 🎮 **40+ browser games shipped** with a teammate on the studio's platform: teardown → build prompt → AI build → acceptance testing → publishing
+- 🎮 **40+ AI-built browser games shipped** on the studio's platform: teardown → build prompt → AI build → acceptance testing → publishing
 - 🛠 **AI research tools**: a Gemini Chrome extension and a Codex skill that turn gameplay videos into evidence-based teardowns, up to 49 a day
 - 🧱 **6.5 years with Roblox Studio / Luau** (13,000+ teaching sessions)
 
@@ -42,7 +42,7 @@ I build playable games fast with AI, and I know what to build. Claude, Codex and
 ### Experience
 
 **Bloom Labs** — Game Designer & AI Prototyper (contract) · Jul–Oct 2026
-Wrote 88 of the studio's 132 game teardowns; built AI research tools; shipped 40+ AI-built browser games with a teammate; competitor and economy analysis, a core-loop redesign and release QA for a live Roblox game.
+Wrote 88 of the studio's 132 game teardowns; built AI research tools; shipped 40+ AI-built browser games on the studio's platform; competitor and economy analysis, a core-loop redesign and release QA for a live Roblox game.
 
 **Itgenio** — Roblox & game-development instructor · 2019–2026
 13,000+ online sessions: Roblox Studio, Lua/Luau, game systems. Daily debugging of unfamiliar code.
