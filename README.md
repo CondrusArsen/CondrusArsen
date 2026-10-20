@@ -1,50 +1,56 @@
-<img src="assets/header.svg" alt="Arseni Atrokhov — Roblox Development / Game Systems / Research" width="100%">
+<img src="assets/header.svg" alt="Arseni Atrokhov — AI-assisted game developer" width="100%">
 
-### Hi, I'm Arseni — Roblox developer and technical game designer
+## Arseni Atrokhov — AI-assisted Game Developer · Roblox (Luau) · HTML5 · Game Design
 
-I turn game ideas and research into clear rules, playable systems and testable prototypes. My main stack is **Roblox Studio and Lua/Luau**; I also build in **TypeScript**, **Python** and **JavaScript**, and design interfaces in **Figma**.
+I build playable games fast with AI, and I know what to build. Claude, Codex and Gemini are my production team: I set the design, direct the agents, review every result and own the final quality.
 
-📍 Gomel, Belarus · open to remote work and to on-site roles in Gomel · [LinkedIn](https://www.linkedin.com/in/arseni-atrokhov/)
+- 🔬 **200+ game teardowns** — 88 of the 132 in my last studio's library, mostly Roblox: core loops, FTUE, economy, monetization, retention
+- 🎮 **40+ browser games shipped** with a teammate on the studio's platform: teardown → build prompt → AI build → acceptance testing → publishing
+- 🛠 **AI research tools**: a Gemini Chrome extension and a Codex skill that turn gameplay videos into evidence-based teardowns, up to 49 a day
+- 🧱 **6.5 years with Roblox Studio / Luau** (13,000+ teaching sessions)
 
-## Featured project
-
-**[Deep Contract](https://github.com/CondrusArsen/deep-contract)** — a mining-management and tower-defence browser game, built from a gameplay-research brief through implementation and testing. Day/night loop, autonomous workers, enemy waves and bosses, progression tree, tutorial and local saves. TypeScript, 36 automated tests, design notes and the original research teardown included.
-
-**[▶ Play in browser](https://condrusarsen.github.io/deep-contract/) · [Source & design notes](https://github.com/CondrusArsen/deep-contract#project-work) · [Downloads](https://github.com/CondrusArsen/deep-contract/releases/tag/v1.0.0)**
-
-## Projects
-
-| Project | Stack | What it shows |
-|---|---|---|
-| [Arcane Orchard RPG](https://github.com/CondrusArsen/arcane-orchard-rpg) | Roblox, Luau | Magic combat, NPC patrols and pathfinding, resource loop, shop, DataStore saves |
-| [Roblox Feature Pack](https://github.com/CondrusArsen/roblox-feature-pack) | Roblox, Lua | Test assignment: triggers, teleports, checkpoints, GUI + RemoteEvents, DataStore, animation |
-| [Match-3 Design Case Study](https://github.com/CondrusArsen/match3-game-design-case-study) | Game design | Analysis of 200 levels per title, a layered obstacle mechanic and a collection event |
-| [School Journal Bot](https://github.com/CondrusArsen/school-journal-bot) | Python, aiogram, SQLite | Telegram bot for teachers: classes, grades, reports, Excel export, 18 tests |
-| [Mobile Quiz UI](https://github.com/CondrusArsen/among-us-story-mobile-quiz-ui) | Figma | Mobile quiz game concept: level flow, lives, results and shop screens |
-| [Casino Mini-Game UI](https://github.com/CondrusArsen/blackjack-mobile-game-ui) | Figma | Mobile number-guessing game in a casino style: fast entry, clear actions |
-| [Mini Movie Journal](https://github.com/CondrusArsen/film-catalog-frontend) | HTML, CSS, JavaScript | Catalog with search, filters, sorting, detail pages and theme switching |
-
-## What I bring
-
-- **Gameplay implementation** — client/server logic, RemoteEvents, UI states, inventories, shops, progression, NPC behaviour and saved data.
-- **Game design & research** — core loops, rewards, onboarding, competitor teardowns and concrete proposals a team can build.
-- **Testing & iteration** — clear repro steps, expected vs actual behaviour, playtest feedback that turns into fixes.
-- **UX thinking** — player flows, navigation and interface feedback, prototyped in Figma.
-
-## Experience
-
-**Bloom Labs** — Game design, research & prototyping · Jul–Oct 2026  
-Game analysis, QA, product feedback and browser-game prototyping in a small team: from gameplay evidence to specs, implementation and iteration.
-
-**Itgenio** — Programming & game-development instructor · Dec 2019 – Jul 2026  
-13,000+ online lessons. Took student projects from idea to working game, debugged unfamiliar code daily and explained game systems in plain language.
-
-**Freelance** — UI/UX for mobile and game interfaces · 2021 – 2026
-
-## Now
-
-Building my own Roblox game. A case study will appear here once it is ready to show.
+📍 Remote · Gomel, Belarus (UTC+3) · English: elementary — I read English and write with translation tools, which works well in async, text-based teams · [LinkedIn](https://www.linkedin.com/in/arseni-atrokhov/)
 
 ---
 
-Looking for a Roblox developer, gameplay programmer or technical game designer? **[Message me on LinkedIn](https://www.linkedin.com/in/arseni-atrokhov/)**.
+### ⭐ Featured
+
+**[AI Game Lab](https://github.com/CondrusArsen/ai-game-lab)** — seven mobile web games built from my own teardowns with AI agents, playable in the browser. **[▶ Play them all](https://condrusarsen.github.io/ai-game-lab/)**
+
+**[Deep Contract](https://github.com/CondrusArsen/deep-contract)** — mining management + tower defence: day/night loop, worker AI, waves and bosses, upgrade tree. TypeScript, 36 tests, full design notes. **[▶ Play](https://condrusarsen.github.io/deep-contract/)**
+
+### 🧱 Roblox
+
+| Project | What it shows |
+|---|---|
+| [Arcane Orchard RPG](https://github.com/CondrusArsen/arcane-orchard-rpg) | Magic combat, NPC AI with pathfinding, economy and shop. Rojo project, server-authoritative purchases, safe DataStore saves, Selene + StyLua CI |
+| [Roblox Feature Pack](https://github.com/CondrusArsen/roblox-feature-pack) | Studio test assignment: triggers, teleports, per-player checkpoints, GUI + RemoteEvents, DataStore, animation |
+
+### 📐 Game design
+
+| Project | What it shows |
+|---|---|
+| [Match-3 Design Case Study](https://github.com/CondrusArsen/match3-game-design-case-study) | Early-game analysis of 200 levels per title, a layered obstacle mechanic, a collection event |
+| [Game teardowns](https://condrusarsen.github.io/ai-game-lab/#teardowns) | Evidence-based breakdowns: core loop, economy, progression, FTUE, monetization |
+
+### 🛠 Other
+
+[School Journal Bot](https://github.com/CondrusArsen/school-journal-bot) (Python, aiogram, SQLite, 18 tests) · Figma UI for client mobile games: [Casino Mini-Game](https://github.com/CondrusArsen/blackjack-mobile-game-ui), [Quiz Game](https://github.com/CondrusArsen/among-us-story-mobile-quiz-ui)
+
+---
+
+### Experience
+
+**Bloom Labs** — Game design, research & AI prototyping · Jul–Oct 2026
+Wrote 88 of the studio's 132 game teardowns; built AI research tools; shipped 40+ AI-built browser games with a teammate; competitor and economy analysis, a core-loop redesign and release QA for a live Roblox game.
+
+**Itgenio** — Roblox & game-development instructor · 2019–2026
+13,000+ online sessions: Roblox Studio, Lua/Luau, game systems. Daily debugging of unfamiliar code.
+
+**Freelance** — UI/UX for mobile games and apps in Figma, paid client work · 2021–2026
+
+### Toolbox
+
+`Luau` `Roblox Studio` `Rojo` `TypeScript` `JavaScript` `HTML5 Canvas` `Python` `Claude Code` `Codex` `Gemini` `Figma` `Git`
+
+**Looking for:** AI game designer / AI prototyper · Roblox developer · game designer (casual, Roblox) · HTML5 game developer — remote. **[Message me on LinkedIn](https://www.linkedin.com/in/arseni-atrokhov/)**
