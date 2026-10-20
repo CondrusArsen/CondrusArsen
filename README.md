@@ -2,12 +2,14 @@
 
 ## Arseni Atrokhov — AI-assisted Game Developer · Roblox (Luau) · HTML5 · Game Design
 
-I build playable games fast with AI, and I know what to build. Claude, Codex and Gemini are my production team: I set the design, direct the agents, review every result and own the final quality.
+I turn a game idea into a playable, tested build quickly, and I can tell what makes a game work. I use Claude, Codex and Gemini as my production team: I make the design decisions, direct the agents, review the results and own the final quality.
 
-- 🔬 **600+ game teardowns in 3.5 months** (Roblox, web, indie/Steam, mobile): about 100 Roblox teardowns done hands-on with an AI assistant, the rest through research pipelines I built on Gemini and Codex. Core loops, FTUE, economy, monetization, retention
-- 🎮 **40+ AI-built browser games shipped** on the studio's platform: teardown → build prompt → AI build → acceptance testing → publishing
-- 🛠 **AI research tools**: a Gemini Chrome extension and a Codex skill that turn gameplay videos into evidence-based teardowns, up to 49 a day
-- 🧱 **6.5 years with Roblox Studio / Luau** (13,000+ teaching sessions)
+**What I can do for your team**
+
+- 🎮 **Ship playable prototypes fast.** I take a concept to a browser or Roblox build your team can playtest. I've shipped 40+ AI-built web games to a live platform.
+- 🔬 **Research games and markets.** I've analysed 600+ games (Roblox, web, indie/Steam, mobile): core loop, FTUE, economy, monetization, retention. I can tell you what to copy, what to change and why.
+- 🛠 **Build AI tools for the pipeline.** I made tools that turn gameplay videos into evidence-based teardowns at scale (a Gemini Chrome extension and Codex skills).
+- 🧱 **Roblox and Luau.** 6.5 years with Roblox Studio: systems, client/server logic, saving, NPCs, UI, and debugging other people's code.
 
 📍 Remote · Gomel, Belarus (UTC+3) · English: elementary — I read English and write with translation tools, which works well in async, text-based teams · [LinkedIn](https://www.linkedin.com/in/arseni-atrokhov/)
 
@@ -42,7 +44,7 @@ I build playable games fast with AI, and I know what to build. Claude, Codex and
 ### Experience
 
 **Bloom Labs** — Game Designer & AI Prototyper (contract) · Jul–Oct 2026
-Researched 600+ games (by September my teardowns were 88 of the team's 132); built AI research tools; shipped 40+ AI-built browser games on the studio's platform; competitor and economy analysis, a core-loop redesign and release QA for a live Roblox game.
+Researched 600+ games and built AI tools that automate teardowns. Shipped 40+ AI-built browser games. Ran competitor and economy analysis, redesigned the core loop and did release QA for a live Roblox game.
 
 **Itgenio** — Roblox & game-development instructor · 2019–2026
 13,000+ online sessions: Roblox Studio, Lua/Luau, game systems. Daily debugging of unfamiliar code.
