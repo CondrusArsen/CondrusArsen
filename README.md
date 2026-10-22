@@ -20,7 +20,7 @@ I turn a game idea into a playable, tested build quickly, and I can tell what ma
 - 🛠 **Build AI tools for the pipeline.** I made tools that turn gameplay videos into evidence-based teardowns at scale (a Gemini Chrome extension and Codex skills).
 - 🧱 **Roblox and Luau.** 6.5 years with Roblox Studio: systems, client/server logic, saving, NPCs, UI, and debugging other people's code.
 
-📍 Remote · Gomel, Belarus (UTC+3) · English: elementary — I read English and write with translation tools, which works well in async, text-based teams · [LinkedIn](https://www.linkedin.com/in/arseni-atrokhov/)
+📍 Remote · Gomel, Belarus (UTC+3) · Open to full-time roles and project work — [services & prices (RU)](https://condrusarsen.github.io/services/) · English: elementary — I read English and write with translation tools, which works well in async, text-based teams · [LinkedIn](https://www.linkedin.com/in/arseni-atrokhov/)
 
 ---
 
@@ -29,6 +29,8 @@ I turn a game idea into a playable, tested build quickly, and I can tell what ma
 **[AI Game Market](https://github.com/CondrusArsen/ai-game-lab)** — the 3D market above: 26 games in the main rows, 57 more prototypes in the Vault, 69 teardowns. Built with AI agents, solo and in a small team. **[▶ Walk in](https://condrusarsen.github.io/ai-game-lab/)**
 
 **[Deep Contract](https://github.com/CondrusArsen/deep-contract)** — mining management + tower defence: day/night loop, worker AI, waves and bosses, upgrade tree. TypeScript, 36 tests, full design notes. **[▶ Play](https://condrusarsen.github.io/deep-contract/)**
+
+**[Playable Ads demos](https://github.com/CondrusArsen/playable-ads-demo)** — three HTML5 playable ads (pin-puzzle with fluid physics, crowd runner, merge battler on PixiJS 8), single-file with MRAID 2.0 structure, plus a Telegram Mini App game. **[▶ Play](https://condrusarsen.github.io/playable-ads-demo/)**
 
 ### 🧱 Roblox
 
