@@ -32,6 +32,8 @@ I turn a game idea into a playable, tested build quickly, and I can tell what ma
 
 **[Playable Ads demos](https://github.com/CondrusArsen/playable-ads-demo)** — three HTML5 playable ads (pin-puzzle with fluid physics, crowd runner, merge battler on PixiJS 8), single-file with MRAID 2.0 structure, plus a Telegram Mini App game. **[▶ Play](https://condrusarsen.github.io/playable-ads-demo/)**
 
+**[Lumen Tides — game UI/UX case](https://condrusarsen.github.io/game-ui-case/)** — interactive mobile game interface: home with events, level map, booster sheet, victory, shop with offers and purchase flow, battle pass; screen transitions and 25+ micro-animations. Made with AI. **[▶ Try it](https://condrusarsen.github.io/game-ui-case/app.html)**
+
 ### 🧱 Roblox
 
 | Project | What it shows |
@@ -48,7 +50,7 @@ I turn a game idea into a playable, tested build quickly, and I can tell what ma
 
 ### 🛠 Other
 
-[School Journal Bot](https://github.com/CondrusArsen/school-journal-bot) (Python, aiogram, SQLite, 18 tests) · Figma UI for client mobile games: [Casino Mini-Game](https://github.com/CondrusArsen/blackjack-mobile-game-ui), [Quiz Game](https://github.com/CondrusArsen/among-us-story-mobile-quiz-ui)
+[School Journal Bot](https://github.com/CondrusArsen/school-journal-bot) (Python, aiogram, SQLite, 18 tests)
 
 ---
 
