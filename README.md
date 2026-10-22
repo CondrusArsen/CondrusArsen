@@ -34,6 +34,8 @@ I turn a game idea into a playable, tested build quickly, and I can tell what ma
 
 **[Lumen Tides — game UI/UX case](https://condrusarsen.github.io/game-ui-case/)** — interactive mobile game interface: home with events, level map, booster sheet, victory, shop with offers and purchase flow, battle pass; screen transitions and 25+ micro-animations. Made with AI. **[▶ Try it](https://condrusarsen.github.io/game-ui-case/app.html)**
 
+**[Ulei — coworking booking UX case](https://condrusarsen.github.io/coworking-case/)** — landing + seat booking in 30 seconds: time slots, interactive seat map with filters, form with phone mask and promo code, QR confirmation; desktop and mobile. Made with AI. **[▶ Try it](https://condrusarsen.github.io/coworking-case/app.html)**
+
 ### 🧱 Roblox
 
 | Project | What it shows |
