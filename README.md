@@ -5,7 +5,7 @@
   <a href="https://condrusarsen.github.io/ai-game-lab/list/"><img src="assets/btn-list.svg" alt="Open as a list" height="56"></a>
 </p>
 
-<p align="center"><b>My portfolio is a game you can walk in.</b> 84 games playable in the browser · 54 game teardowns · Roblox projects and a Figma wall of client UI.<br>Works on desktop and phone: walk with WASD or tap the floor, <code>M</code> opens the map and search.</p>
+<p align="center"><b>My portfolio is a game you can walk in.</b> 83 games playable in the browser · 69 game teardowns, 17 of them Roblox hits · Roblox projects, a match-3 design case and a Figma wall of client UI.<br>Works on desktop and phone: walk with WASD or tap the floor, <code>M</code> opens the map and search.</p>
 
 ---
 
@@ -15,7 +15,7 @@ I turn a game idea into a playable, tested build quickly, and I can tell what ma
 
 **What I can do for your team**
 
-- 🎮 **Ship playable prototypes fast.** I take a concept to a browser or Roblox build your team can playtest. I've built 100+ playable games and prototypes (HTML5 and Roblox) with AI agents; 84 of them are [playable in my market](https://condrusarsen.github.io/ai-game-lab/).
+- 🎮 **Ship playable prototypes fast.** I take a concept to a browser or Roblox build your team can playtest. I've built 100+ playable games and prototypes (HTML5 and Roblox) with AI agents; 83 of them are [playable in my market](https://condrusarsen.github.io/ai-game-lab/).
 - 🔬 **Research games and markets.** I've analysed 600+ games (Roblox, web, indie/Steam, mobile): core loop, FTUE, economy, monetization, retention. I can tell you what to copy, what to change and why.
 - 🛠 **Build AI tools for the pipeline.** I made tools that turn gameplay videos into evidence-based teardowns at scale (a Gemini Chrome extension and Codex skills).
 - 🧱 **Roblox and Luau.** 6.5 years with Roblox Studio: systems, client/server logic, saving, NPCs, UI, and debugging other people's code.
@@ -26,7 +26,7 @@ I turn a game idea into a playable, tested build quickly, and I can tell what ma
 
 ### ⭐ Featured
 
-**[AI Game Market](https://github.com/CondrusArsen/ai-game-lab)** — the 3D market above: 30 games in the main rows, 54 more prototypes in the Vault, 54 teardowns, built with AI agents under my direction. **[▶ Walk in](https://condrusarsen.github.io/ai-game-lab/)**
+**[AI Game Market](https://github.com/CondrusArsen/ai-game-lab)** — the 3D market above: 26 games in the main rows, 57 more prototypes in the Vault, 69 teardowns. Built with AI agents, solo and in a small team. **[▶ Walk in](https://condrusarsen.github.io/ai-game-lab/)**
 
 **[Deep Contract](https://github.com/CondrusArsen/deep-contract)** — mining management + tower defence: day/night loop, worker AI, waves and bosses, upgrade tree. TypeScript, 36 tests, full design notes. **[▶ Play](https://condrusarsen.github.io/deep-contract/)**
 
@@ -42,7 +42,7 @@ I turn a game idea into a playable, tested build quickly, and I can tell what ma
 | Project | What it shows |
 |---|---|
 | [Match-3 Design Case Study](https://github.com/CondrusArsen/match3-game-design-case-study) | Early-game analysis of 200 levels per title, a layered obstacle mechanic, a collection event |
-| [54 game teardowns](https://condrusarsen.github.io/ai-game-lab/list/) | Evidence-based breakdowns: core loop, economy, progression, FTUE, monetization |
+| [69 game teardowns](https://condrusarsen.github.io/ai-game-lab/list/) | Evidence-based breakdowns: core loop, economy, progression, FTUE, monetization |
 
 ### 🛠 Other
 
