@@ -1,73 +1,48 @@
-<a href="https://condrusarsen.github.io/ai-game-lab/"><img src="assets/market.gif" alt="AI Game Market: walk a neon 3D market where every stall is a playable game" width="100%"></a>
+# Arseni Atrokhov
 
-<p align="center">
-  <a href="https://condrusarsen.github.io/ai-game-lab/"><img src="assets/btn-enter.svg" alt="Enter the 3D market" height="56"></a>&nbsp;&nbsp;
-  <a href="https://condrusarsen.github.io/ai-game-lab/list/"><img src="assets/btn-list.svg" alt="Open as a list" height="56"></a>
-</p>
+**Roblox Developer and Game Prototyper · Luau · HTML5 · AI-assisted development**
 
-<p align="center"><b>My portfolio is a game you can walk in.</b> 83 games playable in the browser · 69 game teardowns, 17 of them Roblox hits · Roblox projects, a match-3 design case and a Figma wall of client UI.<br>Works on desktop and phone: walk with WASD or tap the floor, <code>M</code> opens the map and search.</p>
+I develop gameplay, UI and client/server systems for Roblox, and build playable browser prototypes. I use Claude Code, Codex and Gemini for implementation and iteration: I define the task, work through the scripts, debug, playtest and decide what is ready.
 
----
+**[AI Game Market — complete interactive portfolio](https://condrusarsen.github.io/ai-game-lab/)** · [Open the catalogue as a list](https://condrusarsen.github.io/ai-game-lab/list/) · [LinkedIn](https://www.linkedin.com/in/arseni-atrokhov/)
 
-## Arseni Atrokhov — AI-assisted Game Developer · Roblox (Luau) · HTML5 · Game Design
+The market brings together **83 games and prototypes and 69 game teardowns** across different genres. It includes individual and collaborative work. Examples range from the mining-management loop in **Deep Contract** to the time-loop puzzle **12-Second Heist** and camera-based play in **Breaking Storm Live**.
 
-I turn a game idea into a playable, tested build quickly, and I can tell what makes a game work. I use Claude, Codex and Gemini as my production team: I make the design decisions, direct the agents, review the results and own the final quality.
+## Roblox and browser projects
 
-**What I can do for your team**
-
-- 🎮 **Ship playable prototypes fast.** I take a concept to a browser or Roblox build your team can playtest. I've built 100+ playable games and prototypes (HTML5 and Roblox) with AI agents; 83 of them are [playable in my market](https://condrusarsen.github.io/ai-game-lab/).
-- 🔬 **Research games and markets.** I've analysed 600+ games (Roblox, web, indie/Steam, mobile): core loop, FTUE, economy, monetization, retention. I can tell you what to copy, what to change and why.
-- 🛠 **Build AI tools for the pipeline.** I made tools that turn gameplay videos into evidence-based teardowns at scale (a Gemini Chrome extension and Codex skills).
-- 🧱 **Roblox and Luau.** 6.5 years with Roblox Studio: systems, client/server logic, saving, NPCs, UI, and debugging other people's code.
-
-📍 Remote · Gomel, Belarus (UTC+3) · Open to full-time roles and project work — [services & prices (RU)](https://condrusarsen.github.io/services/) · English: elementary — I read English and write with translation tools, which works well in async, text-based teams · [LinkedIn](https://www.linkedin.com/in/arseni-atrokhov/)
-
----
-
-### ⭐ Featured
-
-**[AI Game Market](https://github.com/CondrusArsen/ai-game-lab)** — the 3D market above: 26 games in the main rows, 57 more prototypes in the Vault, 69 teardowns. Built with AI agents, solo and in a small team. **[▶ Walk in](https://condrusarsen.github.io/ai-game-lab/)**
-
-**[Deep Contract](https://github.com/CondrusArsen/deep-contract)** — mining management + tower defence: day/night loop, worker AI, waves and bosses, upgrade tree. TypeScript, 36 tests, full design notes. **[▶ Play](https://condrusarsen.github.io/deep-contract/)**
-
-**[Playable Ads demos](https://github.com/CondrusArsen/playable-ads-demo)** — three HTML5 playable ads (pin-puzzle with fluid physics, crowd runner, merge battler on PixiJS 8), single-file with MRAID 2.0 structure, plus a Telegram Mini App game. **[▶ Play](https://condrusarsen.github.io/playable-ads-demo/)**
-
-**[Lumen Tides — game UI/UX case](https://condrusarsen.github.io/game-ui-case/)** — interactive mobile game interface: home with events, level map, booster sheet, victory, shop with offers and purchase flow, battle pass; screen transitions and 25+ micro-animations. Made with AI. **[▶ Try it](https://condrusarsen.github.io/game-ui-case/app.html)**
-
-**[Ulei — coworking booking UX case](https://condrusarsen.github.io/coworking-case/)** — landing + seat booking in 30 seconds: time slots, interactive seat map with filters, form with phone mask and promo code, QR confirmation; desktop and mobile. Made with AI. **[▶ Try it](https://condrusarsen.github.io/coworking-case/app.html)**
-
-### 🧱 Roblox
-
-| Project | What it shows |
+| Project | My contribution and evidence |
 |---|---|
-| [Arcane Orchard RPG](https://github.com/CondrusArsen/arcane-orchard-rpg) | Magic combat, NPC AI with pathfinding, economy and shop. Started with a student; refactored with AI agents under my direction (Rojo, server-authoritative purchases, safe DataStore saves, CI) and playtested in Studio |
-| [Roblox Feature Pack](https://github.com/CondrusArsen/roblox-feature-pack) | Studio test assignment: triggers, teleports, per-player checkpoints, GUI + RemoteEvents, DataStore, animation |
+| **[SoapCutting / +1 Knife Size Every Cut](projects/soap-cutting/)** · [Play on Roblox](https://www.roblox.com/games/102709455340707) | My own published pet project, built with AI tools. Concept, gameplay loop, progression, UI, implementation direction and playtesting. The published build and the current redesign are described separately. |
+| **[Fish & Survive: Zombie Lake](https://www.roblox.com/games/134519178428493)** | Ongoing collaborative Roblox game. I worked across client/server scripts with AI tools, redesigned UI, populated the map, directed model creation and refined mechanics developed together. The project uses lobby/match places, reserved servers, teleports, shared persistence, classes and quests. Source remains private. |
+| **[Roblox Feature Pack](https://github.com/CondrusArsen/roblox-feature-pack)** | [Original hand-written Luau, 2025](https://github.com/CondrusArsen/roblox-feature-pack/tree/original-2025); later AI-assisted refactor. Checkpoints, teleports, GUI, server validation and persistent state. The README identifies which build the recordings show. |
+| **[AI Game Market](https://condrusarsen.github.io/ai-game-lab/)** · [Catalogue](https://condrusarsen.github.io/ai-game-lab/list/) | My complete collection: 83 games and prototypes and 69 teardowns. Different loops, controls and genres, with playable builds and research. **[Deep Contract](https://github.com/CondrusArsen/deep-contract)** is one detailed example with design notes and a documented test scope. |
 
-### 📐 Game design
+## Design and tools
 
-| Project | What it shows |
-|---|---|
-| [Match-3 Design Case Study](https://github.com/CondrusArsen/match3-game-design-case-study) | Early-game analysis of 200 levels per title, a layered obstacle mechanic, a collection event |
-| [69 game teardowns](https://condrusarsen.github.io/ai-game-lab/list/) | Evidence-based breakdowns: core loop, economy, progression, FTUE, monetization |
+- **[Match-3 design case](https://github.com/CondrusArsen/match3-game-design-case-study)** — early-game comparison, obstacle specification and a collection-event concept.
+- **[AI Agent Demo](https://github.com/CondrusArsen/ai-agent-demo)** — locally run Telegram agent, catalogue validation, tool use and knowledge-base search; demo CSV catalogue and JSON CRM.
+- **[School Journal Bot](https://github.com/CondrusArsen/school-journal-bot)** — locally run Python, aiogram and SQLite project; grade-entry workflows, reports and Excel export. Setup instructions are in the repository.
+- **[Arcane Orchard](https://github.com/CondrusArsen/arcane-orchard-rpg)** — collaborative RPG prototype; I wrote the original NPC behaviour, then directed an AI-assisted refactor.
+- **[Game UI case](https://condrusarsen.github.io/game-ui-case/)** — interactive UI prototype. Earlier paid work: [mobile quiz](https://github.com/CondrusArsen/among-us-story-mobile-quiz-ui) and [mobile game UI](https://github.com/CondrusArsen/blackjack-mobile-game-ui).
 
-### 🛠 Other
+## Experience
 
-[School Journal Bot](https://github.com/CondrusArsen/school-journal-bot) (Python, aiogram, SQLite, 18 tests)
+**Game research, prototyping and QA · studio contract · Jul–Oct 2026**  
+Reference and competitor analysis, prototype specifications, browser builds with AI agents, playtesting and defect reports. Built tools for the research workflow.
 
----
+**Game-development instructor · Itgenio · Dec 2019–Jul 2026**  
+Taught Roblox Studio and Luau, explained game systems and debugged student projects. This is teaching experience, separate from studio development.
 
-### Experience
+**Freelance UI/UX · 2021–2026**  
+Paid Figma projects for mobile games and apps.
 
-**Bloom Labs** — Game Designer & AI Prototyper (contract) · Jul–Oct 2026
-Researched 600+ games and built AI tools that automate teardowns. Built playable web games and prototypes with AI agents. Ran competitor and economy analysis, redesigned the core loop and did release QA for a live Roblox game.
+**Education:** Mathematics, Francisk Skorina Gomel State University, 2017–2021.
 
-**Itgenio** — Roblox & game-development instructor · 2019–2026
-13,000+ online sessions: Roblox Studio, Lua/Luau, game systems. Daily debugging of unfamiliar code.
+## CV and contact
 
-**Freelance** — UI/UX for mobile games and apps in Figma, paid client work · 2021–2026
+[Roblox / game prototyping · RU](cv/Atrokhov_Arseniy_Roblox_RU.pdf) · [Game prototyping · EN](cv/Arseni_Atrokhov_Game_Prototyper_EN.pdf)  
+[Junior game design · RU](cv/Atrokhov_Arseniy_Game_Design_RU.pdf) · [Junior AI tools · RU](cv/Atrokhov_Arseniy_AI_Tools_RU.pdf)
 
-### Toolbox
+Based in Gomel, Belarus (UTC+3). Looking for a remote, full-time role. Russian: native. English: elementary; I use translation tools for written communication.
 
-`Luau` `Roblox Studio` `JavaScript` `HTML5 Canvas` `Claude Code` `Codex` `Gemini` `Figma` `Git`
-
-**Looking for:** AI game designer / AI prototyper · Roblox developer · game designer (casual, Roblox) · HTML5 game developer — remote. **[Message me on LinkedIn](https://www.linkedin.com/in/arseni-atrokhov/)**
+[LinkedIn](https://www.linkedin.com/in/arseni-atrokhov/) · Telegram: **@qintin**
