@@ -20,7 +20,7 @@
       <a href="https://www.roblox.com/games/134519178428493"><img src="media/zombie-lake.jpg" alt="Zombie Lake gameplay trailer frame, with a character holding a fishing rod on the shore" width="100%"></a>
       <strong>Fish &amp; Survive: Zombie Lake</strong> · Collaborative Roblox game<br>
       I worked on the UI, map, client/server scripts and shared mechanics. The game has separate lobby and match places, reserved servers and shared progression.<br>
-      <a href="https://www.roblox.com/games/134519178428493">Play on Roblox</a> · <a href="https://condrusarsen.github.io/ai-game-lab/?focus=roblox&amp;lang=en">Watch the trailer</a>
+      <a href="projects/zombie-lake/README.md">Development case</a> · <a href="https://www.roblox.com/games/134519178428493">Play on Roblox</a> · <a href="https://condrusarsen.github.io/ai-game-lab/showreel/zombie-lake.mp4">Watch the trailer</a>
     </td>
   </tr>
   <tr>
